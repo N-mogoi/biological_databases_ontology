@@ -4,7 +4,7 @@ This repository contains a collection of bioinformatics workflows for retrieving
 
 ---
 
-##  Project Overview
+##  Project overview
 
 The aim of this project is to demonstrate reproducible data retrieval and transformation workflows using:
 
@@ -16,7 +16,7 @@ These workflows cover both **single accession retrieval** and **batch data proce
 
 ---
 
-## Repository Structure (Branches)
+## Repository structure
 
 Each branch represents a specific workflow:
 
@@ -46,7 +46,7 @@ Each branch represents a specific workflow:
 
 ---
 
-##  Technologies Used
+##  Technologies used
 
 - R (`rentrez`, `xml2`, `jsonlite`, `tidyverse`)
 - Python
@@ -55,7 +55,7 @@ Each branch represents a specific workflow:
 
 ---
 
-##  Key Concepts Demonstrated
+##  Key skills
 
 - Programmatic access to NCBI databases  
 - Handling multiple bioinformatics file formats  
@@ -65,7 +65,7 @@ Each branch represents a specific workflow:
 
 ---
 
-##  Getting Started
+##  Getting started
 
 Clone the repository:
 
