@@ -1,3 +1,8 @@
+This branch contains:
+- R workflow for retrieving a single GenBank accession
+- Outputs: FASTA, GenBank, CSV, JSON
+
+
 This project demonstrates a reproducible bioinformatics workflow for retrieving and structuring biological data from NCBI using **R**.
 
 ---
