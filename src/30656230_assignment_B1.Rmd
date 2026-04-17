@@ -1,6 +1,6 @@
 ---
-title: "Assignment_B1"
-author: "Nicholas Mogoi: 30656230"
+title: "Retrieval of a single protein sequence"
+author: "Nick Mogoi: 30656230"
 date: "`r Sys.Date()`"
 output: html_document
 ---
