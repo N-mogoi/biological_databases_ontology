@@ -1,4 +1,4 @@
-# Biological Databases & Ontology Workflows
+# sra-data-retrieval-pipelines
 
 This repository contains a collection of bioinformatics workflows for retrieving and processing biological data from NCBI databases using multiple programming approaches.
 
